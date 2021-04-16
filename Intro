@@ -1,2 +1,1 @@
-A fast food chain is looking to add a location in a fort worth neighbrhood. Using publicly available data (https://data.fortworthtexas.gov/Property-Data/Neighborhood-Profile-Area-Data/ruhd-2sjc)
-I will get the names of neighborhoods in fort worth and their latitudes and longitudes, then leverage foursquare api to examine fast food chains in each neighborhood and form clusters.
+A fast food chain is looking to add a location in a fort worth neighbrhood. Using publicly available data I will get the names of neighborhoods in fort worth and examine local chains using foursquare.
