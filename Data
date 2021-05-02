@@ -1,3 +1,0 @@
-Using publicly availabel data from (https://data.fortworthtexas.gov/Property-Data/Neighborhood-Profile-Area-Data/ruhd-2sjc)
-extract names of neighborhoods, then get latitudes and longitudes and explore nearby fast food chains using foursquare api and 
-cluster using kmeans
